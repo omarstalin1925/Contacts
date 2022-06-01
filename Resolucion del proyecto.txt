@@ -1,0 +1,23 @@
+Desarrollo:
+
+Para resolver el reto he realizado lo siguiente:
+
+Primero que todo me llamo la atención sobre investigar typescript ya que no lo habia utilizado antes, revisé un poco de documentación
+y comencé e a crear el proyecto, muchas de las herramientas que se solicitaba en el proyecto las conozco y eso fue lo que mas me animó
+a implementar el proyecto, a simple vista leí temas como material ui, react hook, axios, routes, github.
+
+Pues bien tuve que crear mi proyecto react con un template de typescript, luego instalé los paquetes necesarios para mi proyecto y ahora si,
+a crear la estructura del proeycto, creando carpetas y archivos para los servicios, para los componentes, el index y el main.
+
+Luego tuve que crear las rutas para cada formulario del CRUD, utilicé grid para el diseño de las páginas, para los grids utilice la libreria de devextreme,
+instalé una libreria propia de reat para las validaciones del email, utilicé estados para guardar las variables de nombre, apellido,
+telefono y correo, utilicé UseEffect para la carga inicial de datos en las grillas, tammbien utilicé dialogos para los mensajes de alerta o confirmación.
+
+He probado la insersión, la edición, la eliminación y el listar de contactos, es un proyecto sin muchos colores ni mucho diseño pero
+espero que cumpla con los requerimientos solicitados.
+
+Esperando sea de su agrado.
+
+Quedo atento a cualquier comentario o critica constructiva.
+
+Att: Omar Centeno.
