@@ -63,7 +63,7 @@ const DeleteContacts = () => {
   }
 
   function eliminarContacto(evt) {
-    evt.preventDefault();
+    //evt.preventDefault();
     deleteContacto(id).then((response) => {
       setId("");
       handleClose();

@@ -71,7 +71,7 @@ const ListContacts: React.FC = () => {
 
 
   function buscarContactos(evt: any) {
-    evt.preventDefault();
+    //evt.preventDefault();
     obtenerContactos(tamanioMax, pagina, ascDesc).then((response: any) => {
       setContacts(response.data.results);
     });

@@ -85,7 +85,7 @@ const EditContacts = () => {
   });
 
   function editarContacto(evt) {
-    evt.preventDefault();
+    //evt.preventDefault();
     if (firstName != "" && lastName != "" && phone != "" && email != "") {
     values.firstName = firstName;
     values.lastName = lastName;
